@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "DMarket Buff Percentage",
   "version": "1.0",
-  "description": "Adds the buff.163.com price percentage to items on dmarket.com",
+  "description": "Adds the buff.163.com price percentage to items on dmarket.com.",
   "icons": {
     "48": "icon48.png"
   },
