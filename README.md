@@ -1,6 +1,6 @@
-# Firefox extension, 
+# Firefox extension for dmarket.com
 
-## which adds the buff price percentage to items on dmarket.com.
+## This is a Firefox extension, which adds the buff price percentage to items on dmarket.com, so you can make profitable trades.
 
 I am currently working on the backend of this extension, so not all prices are available right now. I am also trying to bring the extension to Chrome soon.
 
