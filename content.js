@@ -36,7 +36,7 @@ function addBuffPercentage() {
                 let dmarketPrice;
 
                 try {
-                    dmarketPrice = parseFloat(prevAssetDiv.innerText.match(/\$((\d\s)?\d{1,3}(\.\d{2})?)/)[1].replace(/\s/g, ''));
+                    dmarketPrice = parseFloat(prevDiv.innerText.match(/\$((\d\s)?\d{1,3}(\.\d{2})?)/)[1].replace(/\s/g, ''));
                 }
                 catch(error) {
                     console.log('${altText} not rendered');
