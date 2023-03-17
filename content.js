@@ -2,7 +2,7 @@ function addBuffPercentage() {
     console.log('addBuffPercentage called');
 
     // fetch the data
-    fetch('http://api.skinpricer.com/lowest_offer.json')
+    fetch('https://api.skinpricer.com/lowest_offer.json')
         .then(response => response.json())
         .then(data => {
 
